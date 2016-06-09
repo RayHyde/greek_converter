@@ -1,0 +1,6 @@
+<h1>Greek Alphabet Converter</h1>
+<p>Easily convert and read Greek text such as place names. Just type what you see on the special keyboard provided and see the latin equivalent appear. Test yourself with a quiz when you think you know them all. Specially made for mobile devices.</p>
+<p><strong>See it in action:</strong> <a href="http://rayhyde.github.io/greek_converter/">http://rayhyde.github.io/greek_converter/</a></p>
+
+<h2>So I got fed up trying to read Greek maps...</h2>
+<p>... and so I made this jQuery/CSS3/Bootstrap app to quickly figure out Greek names. It's now part of my Playground Portfolio. Drop in on portfolio site at <a href="http://www.rayhyde.nl">www.rayhyde.nl!</a></p>
